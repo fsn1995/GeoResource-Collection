@@ -28,17 +28,21 @@
 - [earthengine-py-notebooks](https://github.com/giswqs/earthengine-py-notebooks)
 - [gee-community](https://github.com/gee-community)
 - [fun with gee](https://github.com/fsn1995/Fun-with-Google-Earth-Engine) Note this is my own practice templates so you may ignore and skip it :)
+
 ### 2.2 R library
 - [SPEI](https://github.com/sbegueria/SPEIbase)
     * Standard Precipitation and Evaportranspiration Index. https://spei.csic.es/ An useful and reliable drought index.
+
 ### 2.3 Matlab
 - [Efficient subpixel image registration by cross-correlation](https://www.mathworks.com/matlabcentral/mlc-downloads/downloads/submissions/18401/versions/4/previews/html/efficient_subpixel_registration.html)
     * A powerful  tool to achieve high precision sub-pixel image registration. :+1:
 - [ImGRAFT](https://github.com/grinsted/ImGRAFT)
     * An Image Georectification and Feature Tracking toolbox. This is where I started the glacier surge project. Personally I learned a lot from it. :mountain_snow:
+
 ### 2.4 ENVI/IDL
 - [COSI-CORR](http://www.tectonics.caltech.edu/slip_history/spot_coseis/download_software.html)
-    * Tools for displacement tracking.
+    Tools for displacement tracking.
+
 ### 2.5 Other
 - [Awesome GIS](https://github.com/sshuair/awesome-gis)
 The most comprehensive GIS library.
