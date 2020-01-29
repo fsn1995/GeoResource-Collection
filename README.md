@@ -16,7 +16,7 @@
     * The data can be downloaded mannually or automatically by a [tool](https://github.com/fsn1995/PythonFSN/blob/master/EarthdataDownload.py). 
     * Google Earth Engine also has access to the data. I have done a [practice](https://github.com/fsn1995/Fun-with-Google-Earth-Engine/blob/master/Noah.js) to convert the units and display the global monthly/annual precipitation and temperature. 
 - [SST](https://podaac.jpl.nasa.gov/dataset/REYNOLDS_NCDC_L4_SST_HIST_RECON_MONTHLY_V3B_NETCDF)
-    * Smith and Reynolds NCDC Level 4 Historical Reconstructed SST Monthly Data. 
+    * Smith and Reynolds NCDC Level 4 Historical Reconstructed Sae Surface Temperature Monthly Data. 
 
 ### 1.3 Other
 - [Hurrican path](https://www.ncdc.noaa.gov/ibtracs/index.php?name=ib-v4-access)
@@ -32,7 +32,7 @@
 
 ### 2.2 R library
 - [SPEI](https://github.com/sbegueria/SPEIbase)
-    * Standard Precipitation and Evaportranspiration Index. https://spei.csic.es/ An useful and reliable drought index.
+    * Standard Precipitation and Evaportranspiration Index. https://spei.csic.es/ A useful and reliable drought index.
 
 ### 2.3 Matlab
 - [Efficient subpixel image registration by cross-correlation](https://www.mathworks.com/matlabcentral/mlc-downloads/downloads/submissions/18401/versions/4/previews/html/efficient_subpixel_registration.html)
