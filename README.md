@@ -24,7 +24,7 @@
 - and more...
 
 ## 2. useful tools/software
-### 2.1 Google Earth Engine source
+### 2.1 Google Earth Engine
 - [earthengine-py-notebooks](https://github.com/giswqs/earthengine-py-notebooks)
 - [gee-community](https://github.com/gee-community)
 - [fun with gee](https://github.com/fsn1995/Fun-with-Google-Earth-Engine) 
