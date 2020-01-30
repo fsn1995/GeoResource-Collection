@@ -18,8 +18,8 @@
 - [SST](https://podaac.jpl.nasa.gov/dataset/REYNOLDS_NCDC_L4_SST_HIST_RECON_MONTHLY_V3B_NETCDF)
     * Smith and Reynolds NCDC Level 4 Historical Reconstructed Sae Surface Temperature Monthly Data. 
 - [WorldClim](https://www.worldclim.org/)
-    * Provides climatic variables at a global scale with a high spatial resolution (1km).
-    * Also include data of future spectrums by different earth system models and historical climatic features by different models and records.
+    * Provides climatic variables at a global scale with a high spatial resolution (1km^2).
+    * Also includes data of future spectrums by different earth system models and historical climatic features by different models and records.
     * This data is available in Google Earth Engine.
 
 ### 1.3 Other
