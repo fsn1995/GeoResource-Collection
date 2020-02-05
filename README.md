@@ -32,6 +32,7 @@
 - [gee-community](https://github.com/gee-community)
 - [fun with gee](https://github.com/fsn1995/Fun-with-Google-Earth-Engine) 
     * Note this is my own practice templates so you may ignore and skip it :)
+
 ### 2.2 Python
 - [rasterio](https://rasterio.readthedocs.io/en/latest/) 
     * library for raster data
@@ -41,6 +42,7 @@
     * quick start course
 - [Fun with Python for Geodata](https://github.com/fsn1995/Fun-with-Python-for-Geodata) 
     * personal practice, under development :)
+    
 ### 2.3 R library
 - SPEI
     * Standard Precipitation and Evaportranspiration Index: [point scale](https://github.com/sbegueria/SPEI), [spatial scale](https://github.com/sbegueria/SPEIbase). https://spei.csic.es/ A useful and reliable drought index.
