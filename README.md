@@ -64,8 +64,8 @@
     * Quick tool to check the climate, landcover and other land surface conditions at your study area. 
 - [Google Dataset Search](https://datasetsearch.research.google.com/)
     * A platform to search for dataset.
-- [WUR Geoscripting](https://geoscripting-wur.github.io/) 
-    * Geoscripting course from Wageningen University
+- [WUR Geoscripting](https://geoscripting-wur.github.io/) Geoscripting course from Wageningen University
+
 
 #### Hope this will make our life easier. Feel free to share your collection of data and comment.
 苟日新，日日新，又日新。
