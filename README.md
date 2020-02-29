@@ -27,6 +27,9 @@
 - Humanitarian Data
     * [ACLED](https://www.acleddata.com/)The Armed Conflict Location & Event Data Project 
     * [HDX](https://data.humdata.org/) Humanitarian Data Exchange
+- Accessibilities to city centers
+    * Published in 2018, a paper in Nature named "A global map of travel time to cities to access inequalities in accessibility in 2015" (DOI: 10.1038/nature25181), showed a map counting how long would it take, at any place on the earth, to the nearest city center. 
+    * This data is also availabe in Google Earth Engine.
 
 # Useful tools/software
 ### 3.1 Google Earth Engine
@@ -59,6 +62,7 @@
 - [Google Dataset Search](https://datasetsearch.research.google.com/) - A platform to search for dataset.
 - [WUR Geoscripting](https://geoscripting-wur.github.io/) - Geoscripting course from Wageningen University
 - [OpenDroneMap](https://github.com/OpenDroneMap/WebODM/) - An open source tool for processing drone images.
+- [QGIS](https://www.qgis.org/en/site/) - A user-friendly processing platform with basic tools.
 
 #### Hope this will make our life easier. Feel free to share your collection of data and comment.
 苟日新，日日新，又日新。
