@@ -40,6 +40,7 @@
 ### 3.2 Python
 - [rasterio](https://rasterio.readthedocs.io/en/latest/) - library for processing raster data
 - [geopandas](http://geopandas.org/) - library for vector data
+- Other geospatial data visualization: [Altair](https://altair-viz.github.io/index.html), [plotly](https://plot.ly/python-api-reference/index.html), [geoviews](http://geoviews.org/index.html)
 - [Introduction to Python GIS](https://automating-gis-processes.github.io/CSC18/index.html) - quick start course
 - [Fun with Python for Geodata](https://github.com/fsn1995/Fun-with-Python-for-Geodata) - personal practice, under development :)
     
