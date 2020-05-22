@@ -4,9 +4,10 @@
 ## 1. Climate Data 
 ### 1.1 weather station records
 - [Climate Data Online NOAA](https://www.ncdc.noaa.gov/cdo-web/datasets) - An online portal that contains the collection of meteorological data from global weather stations.
+- [GISS Surface Temperature Analysis (v4)](https://data.giss.nasa.gov/gistemp/station_data_v4_globe/) - Global station network data from NASA.
 - [SMHI](https://www.smhi.se/klimatdata/meteorologi/) - Swedish Meteorological and Hydrological Institute provides detailed long-term monitoring data.
 - [Tarfala Research Station](https://su.figshare.com/TRS)
-    * Meteorological record of weather station at Tarfala Research Station, Stockholm University. Mass balance record of Storglaciären can be found at [Bolin Center for Climate Research](https://bolin.su.se/data/tarfala/tarfalaglaciaren.php). The data was processed and used in my master thesis [cold surface layer dynamics of Storglaciaren](https://github.com/fsn1995/cold-surface-layer-dynamics-on-Storglaciaren)
+    * Meteorological record of weather station at Tarfala Research Station, Stockholm University. Mass balance record of Storglaciären can be found at [Bolin Center for Climate Research](https://bolin.su.se/data/tarfala/glaciers.php). The data was processed and used in my master thesis [cold surface layer dynamics of Storglaciaren](https://github.com/fsn1995/cold-surface-layer-dynamics-on-Storglaciaren)
 
 ### 1.2 Assimulated Global Climatic data
 - [GLDAS NOAH](https://disc.gsfc.nasa.gov/datasets?page=1&project=GLDAS)
@@ -40,10 +41,11 @@
 ### 3.2 Python
 - [rasterio](https://rasterio.readthedocs.io/en/latest/) - library for processing raster data
 - [geopandas](http://geopandas.org/) - library for vector data
-- Other geospatial data visualization: [Altair](https://altair-viz.github.io/index.html), [plotly](https://plot.ly/python-api-reference/index.html), [geoviews](http://geoviews.org/index.html), [cartopy](https://github.com/SciTools/cartopy), [earthpy](https://earthpy.readthedocs.io/en/latest/index.html)
+- Other geospatial data visualization: [**Altair**](https://altair-viz.github.io/index.html), [**plotly**](https://plot.ly/python-api-reference/index.html), [geoviews](http://geoviews.org/index.html), [cartopy](https://github.com/SciTools/cartopy), [earthpy](https://earthpy.readthedocs.io/en/latest/index.html)
 - [Introduction to Python GIS](https://automating-gis-processes.github.io/CSC18/index.html) - quick start course
 - [machine learning with python](https://machine-learning-with-python.readthedocs.io/en/latest/) - Very useful learning resource. It also provides basic introduction of scipy libraries. Beginner friendly. :+1:
-- [Fun with Python for Geodata](https://github.com/fsn1995/Fun-with-Python-for-Geodata) - personal practice, under development :)
+- [Jake Vanderplas on GitHub](https://github.com/jakevdp) 
+- [Fun with Python for Geodata](https://fsn1995.github.io/Fun-with-Python-for-Geodata/) - personal practice, under development :)
     
 ### 3.3 R library
 - SPEI
@@ -54,10 +56,12 @@
     * A powerful  tool to achieve high precision sub-pixel image registration. :+1:
 - [ImGRAFT](https://github.com/grinsted/ImGRAFT)
     * An Image Georectification and Feature Tracking toolbox. This is where I started the glacier surge project. Personally I learned a lot from it. :mountain_snow: :+1:
+- [Fun with MATLAB](https://github.com/fsn1995/MatlabFSN) - personal practice, under development :)
 
 ### 3.5 VS code editor extension
 - Code Runner: run your code by a simple click, supports almost all major programing languages (however, matlab is not included)
 - SandDance for VSCode: interesting tool for quick visualization of your data, like power bi.
+- LaTeX Workshop, Python, Anaconda Extension Pack, docs-markdown
 
 ### 3.6 ENVI/IDL
 - [COSI-CORR](http://www.tectonics.caltech.edu/slip_history/spot_coseis/download_software.html) - Tools for displacement tracking. :+1:
