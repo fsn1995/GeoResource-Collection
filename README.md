@@ -31,12 +31,15 @@
 - Accessibilities to city centers
     * Published in 2018, a paper in Nature named "A global map of travel time to cities to access inequalities in accessibility in 2015" (DOI: 10.1038/nature25181), showed a map counting how long would it take, at any place on the earth, to the nearest city center. 
     * This data is also availabe in Google Earth Engine.
+- [Global Cell Tower](https://www.opencellid.org/#zoom=16&lat=37.77889&lon=-122.41942), plotly also has a [dashboard](https://dash-gallery.plotly.host/dash-world-cell-towers/) on [github](https://github.com/plotly/dash-world-cell-towers).
+- [awesome public datasets](https://github.com/awesomedata/awesome-public-datasets)
 
 # Useful tools/software
 ### 3.1 Google Earth Engine
-- [earthengine-py-notebooks](https://github.com/giswqs/earthengine-py-notebooks)
+- [earthengine-py-notebooks](https://github.com/giswqs/earthengine-py-notebooks), [RGEE](https://r-spatial.github.io/rgee/)
 - [gee-community](https://github.com/gee-community)
 - [fun with gee](https://github.com/fsn1995/Fun-with-Google-Earth-Engine) - Personal practice templates :)
+- [earth map by FAO](https://earthmap.org/)
 
 ### 3.2 Python
 - [rasterio](https://rasterio.readthedocs.io/en/latest/) - library for processing raster data
