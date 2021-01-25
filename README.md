@@ -36,7 +36,7 @@
 
 # Useful tools/software
 ### 3.1 Google Earth Engine
-- [earthengine-py-notebooks](https://github.com/giswqs/earthengine-py-notebooks), [RGEE](https://r-spatial.github.io/rgee/)
+- [earthengine-py-notebooks](https://github.com/giswqs/earthengine-py-notebooks), [RGEE](https://r-spatial.github.io/rgee/), [geemap](https://geemap.org/)
 - [gee-community](https://github.com/gee-community)
 - [fun with gee](https://github.com/fsn1995/Fun-with-Google-Earth-Engine) - Personal practice templates :)
 - [earth map by FAO](https://earthmap.org/)
@@ -59,6 +59,7 @@
     * A powerful  tool to achieve high precision sub-pixel image registration. :+1:
 - [ImGRAFT](https://github.com/grinsted/ImGRAFT)
     * An Image Georectification and Feature Tracking toolbox. This is where I started the glacier surge project. Personally I learned a lot from it. :mountain_snow: :+1:
+- [Arctic Mapping Tools](https://se.mathworks.com/matlabcentral/fileexchange/63324-arctic-mapping-tools), [Antarctic Mapping tools](https://www.mathworks.com/matlabcentral/fileexchange/47638) by [Chad Greene](https://se.mathworks.com/matlabcentral/fileexchange/?s_tid=gn_mlc_fx)
 - [Fun with MATLAB](https://github.com/fsn1995/MatlabFSN) - personal practice, under development :)
 
 ### 3.5 VS code editor extension
