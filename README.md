@@ -44,7 +44,7 @@
 ### 3.2 Python
 - [rasterio](https://rasterio.readthedocs.io/en/latest/) - library for processing raster data
 - [geopandas](http://geopandas.org/) - library for vector data
-- Other geospatial data visualization: [**Altair**](https://altair-viz.github.io/index.html), [**plotly**](https://plot.ly/python-api-reference/index.html), [geoviews](http://geoviews.org/index.html), [cartopy](https://github.com/SciTools/cartopy), [earthpy](https://earthpy.readthedocs.io/en/latest/index.html)
+- Other geospatial data visualization: [**Altair**](https://altair-viz.github.io/index.html), [**plotly**](https://plot.ly/python-api-reference/index.html), [geoviews](http://geoviews.org/index.html), [cartopy](https://github.com/SciTools/cartopy), [earthpy](https://earthpy.readthedocs.io/en/latest/index.html), [**vaex**](https://vaex.io/docs/index.html)
 - [Introduction to Python GIS](https://automating-gis-processes.github.io/CSC18/index.html) - quick start course
 - [machine learning with python](https://machine-learning-with-python.readthedocs.io/en/latest/) - Very useful learning resource. It also provides basic introduction of scipy libraries. Beginner friendly. :+1:
 - [Jake Vanderplas on GitHub](https://github.com/jakevdp) 
